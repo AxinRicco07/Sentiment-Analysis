@@ -16,10 +16,15 @@
 ### Installation
 
 1. Clone the Repository
- ``````
+   
+ ```git clone https://github.com/AxinRicco07/Sentiment-Analysis.git```
 ```cd sentiment-analysis```
+
 2. Install Dependencies
+
 ```pip install -r requirements.txt```
+
 3. Start FastAPI Server
+   
 ```uvicorn app:app --reload```
 
