@@ -8,11 +8,11 @@
 + Streamlit frontend for user interaction.
 + Outputs sentiment category along with confidence scores.
 ### Technologies Used
-**FastAPI**: For building the backend API.
-**ONNX Runtime**: For running the emotion classification model.
-**Transformers (Hugging Face)**: For tokenizing input text.
-**Streamlit**: For creating a simple UI.
-**Python**: Primary programming language.
++ **FastAPI**: For building the backend API.
++ **ONNX Runtime**: For running the emotion classification model.
++ **Transformers (Hugging Face)**: For tokenizing input text.
++ **Streamlit**: For creating a simple UI.
++ **Python**: Primary programming language.
 ### Installation
 
 1. Clone the Repository
